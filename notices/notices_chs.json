@@ -11,6 +11,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-birthday-chr-00028-261010",
+     "title": "Happy Birthday！姬森璐娜",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f133f0245cb3969f4aee59622d25b02600914d017c4cf2d207da5383c8b17140/index.html",
+     "banner_asset_id": "img_banner_full_birthday-chr-00028-261010",
+     "start_time": 1791558000000,
+     "start_time_utc": "2026-10-09T15:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-gacha-pickup-261007",
      "title": "架起桥梁的海洋工坊 扭蛋上线！",
      "type": 1,
@@ -325,17 +336,6 @@
      "type_name": "gacha",
      "detail_url": "https://static.game-hololive-dreams.com/html/notice/6a8c7d31335f5cb6f5f6e4907d4d87ab7fcd001a86e7da802133168d2e95fb9a/index.html",
      "banner_asset_id": "img_banner_full_gacha-beginner-select-001",
-     "start_time": 1784685600000,
-     "start_time_utc": "2026-07-22T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop_startdash-release",
-     "title": "开服纪念限时礼包登场",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d40f39bea298e79823c798e57049ec3cc0846b6e1be0766c049b75a21aa7c349/index.html",
-     "banner_asset_id": "img_banner_full_shop-startdash-release",
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
