@@ -143,17 +143,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gacha-area03-select-260929",
-     "title": "新区域开放纪念！支持自选！★5成员扭蛋上线！",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/de57dc341a89bb00f76faebf1101e3b0a7be4ddc9566858f59fc147e4ee54e4d/index.html",
-     "banner_asset_id": "img_banner_full_gacha-area03-260929",
-     "start_time": 1790629200000,
-     "start_time_utc": "2026-09-28T21:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-shop-stone-area03_celebration-260929",
      "title": "新区域开放纪念限时礼包登场",
      "type": 4,
@@ -336,6 +325,17 @@
      "type_name": "gacha",
      "detail_url": "https://static.game-hololive-dreams.com/html/notice/6a8c7d31335f5cb6f5f6e4907d4d87ab7fcd001a86e7da802133168d2e95fb9a/index.html",
      "banner_asset_id": "img_banner_full_gacha-beginner-select-001",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop_startdash-release",
+     "title": "开服纪念限时礼包登场",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d40f39bea298e79823c798e57049ec3cc0846b6e1be0766c049b75a21aa7c349/index.html",
+     "banner_asset_id": "img_banner_full_shop-startdash-release",
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
