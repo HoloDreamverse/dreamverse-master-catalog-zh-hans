@@ -110,17 +110,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-normal-005",
-     "title": "得分挑战活动《激动人心的蓝色水花！》上线！",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/573280aa1cd0d8d9f5285db5647221beca0c5df04daca56442b37031fd3ce362/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-005",
-     "start_time": 1790650800000,
-     "start_time_utc": "2026-09-29T03:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-login_bonus-event-260929",
      "title": "新区域开放纪念登录奖励上线！",
      "type": 6,
@@ -338,6 +327,17 @@
      "banner_asset_id": "img_banner_full_shop-startdash-release",
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop_pass-release",
+     "title": "Holo通行证等实惠商品上架",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4a81342804db12d35bcb8bb694bf1eed233e6eb96b033df2bdf32c3918b01933/index.html",
+     "banner_asset_id": "img_banner_full_hololive-pass-release",
+     "start_time": 1784772000000,
+     "start_time_utc": "2026-07-23T02:00:00Z",
      "external_url": ""
     }
    ]
