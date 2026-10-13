@@ -187,17 +187,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-info-maintenance-260922",
-     "title": "维护公告",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/a4c4feef891f121eead1494005ad1a9b24abc6cf9506ad5b9632fe183013c331/index.html",
-     "banner_asset_id": "img_banner_full_maintenance-info",
-     "start_time": 1790092800000,
-     "start_time_utc": "2026-09-22T16:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-260909",
      "title": "Ver.1.1.1更新公告",
      "type": 3,
@@ -338,6 +327,17 @@
      "banner_asset_id": "img_banner_full_hololive-pass-release",
      "start_time": 1784772000000,
      "start_time_utc": "2026-07-23T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-common-001",
+     "title": "holodori扭蛋开放",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/49f64d19595a83d6bc892295af187f51e3dcbd185ccdd82f7dc257f70f6b51ca/index.html",
+     "banner_asset_id": "img_banner_full_gacha-common-001",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
     }
    ]
