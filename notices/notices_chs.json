@@ -55,17 +55,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gift-sales_ranking_1st-gacha-260929",
-     "title": "获得商店销量排行榜第1名！",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/62316463791d67a508f86916ddeb3e2cb3b65ac3a8e3ca8a8d8ec6333542ba7f/index.html",
-     "banner_asset_id": "img_banner_full_gift-sales-ranking-1st-gacha-260929",
-     "start_time": 1790748000000,
-     "start_time_utc": "2026-09-30T06:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-area03",
      "title": "新区域“汽水泡泡海湾”登场！",
      "type": 3,
@@ -162,17 +151,6 @@
      "banner_asset_id": "img_banner_full_update-area03",
      "start_time": 1790647200000,
      "start_time_utc": "2026-09-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-holocard-ranking_reset",
-     "title": "关于“扑克屋！”后续的机制调整",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/3ad94b9cc6d53b363785636142955089318b7e9cff1222bdee0aa7512c5164c1/index.html",
-     "banner_asset_id": "",
-     "start_time": 1789626600000,
-     "start_time_utc": "2026-09-17T06:30:00Z",
      "external_url": ""
     },
     {
