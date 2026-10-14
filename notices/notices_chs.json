@@ -369,17 +369,6 @@
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
      "external_url": ""
-    },
-    {
-     "id": "notice-mal-login-failed-android-01-ios",
-     "title": "关于部分Android设备无法登录的异常",
-     "type": 100,
-     "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b96fea2d4a78505331d56456e7964c8c3ee3ecd2511e6c942e6223a138def3a3/index.html",
-     "banner_asset_id": "",
-     "start_time": 1789626600000,
-     "start_time_utc": "2026-09-17T06:30:00Z",
-     "external_url": ""
     }
    ]
   },
