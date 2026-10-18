@@ -11,6 +11,28 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-gacha-pickup-261019-pre",
+     "title": "【预告】至福的海边时光 扭蛋即将上线！",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/13fa766ddbce5c288f25f9c0d28aeb9999d4aa885049e06dde9c5cca5f9a5382/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261019",
+     "start_time": 1792317600000,
+     "start_time_utc": "2026-10-18T10:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-relay-003-pre",
+     "title": "【预告】瞩目焦点活动《灿烂光辉，海滨的着装规范》上线！",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/86b1ce91c6ef0acce7f942c6b30c19f8b8c9eb9a42d29a3ede9c0802b9e2a6a5/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-relay-003",
+     "start_time": 1792317600000,
+     "start_time_utc": "2026-10-18T10:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-marathon_event-normal-007",
      "title": "积攒点数活动《增色添彩♪阳光灿烂大聚会》上线！",
      "type": 2,
