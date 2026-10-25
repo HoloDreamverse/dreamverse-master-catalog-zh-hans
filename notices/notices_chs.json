@@ -110,17 +110,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-mission-area03-release-260929",
-     "title": "新区域开放纪念任务上线！",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/6f4b045faf1120b2bbacab54593bf025355dc29cf024d431bcaee062e6407d51/index.html",
-     "banner_asset_id": "img_banner_full_event-mission-area03-release-260929",
-     "start_time": 1790647200000,
-     "start_time_utc": "2026-09-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-260929",
      "title": "Ver.1.2.0更新通知",
      "type": 3,
