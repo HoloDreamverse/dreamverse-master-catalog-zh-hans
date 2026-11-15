@@ -2,7 +2,7 @@
  "format": "hololive-dreams-notices",
  "region": "jp",
  "lang": "chs",
- "app_version": "1.2.1",
+ "app_version": "1.2.101",
  "categories": [
   {
    "id": "notice_category-news",
@@ -11,36 +11,113 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-gacha-pickup-261019",
-     "title": "至福的海边时光 扭蛋上线！",
+     "id": "notice-news-birthday-chr-00030-261115",
+     "title": "Happy Birthday！雪花菈米",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f06f59d6829b2ef865f1c04132ebf967bb33c0b49e9fcb396e68c361b2cd5f44/index.html",
+     "banner_asset_id": "img_banner_full_birthday-chr-00030-261115",
+     "start_time": 1794668400000,
+     "start_time_utc": "2026-11-14T15:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-pickup-261114",
+     "title": "秋高气爽，漫步好时节♪ 扭蛋上线！",
      "type": 1,
      "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/5f4410fc12b29ae82f769fa34baa866703b43981b374d351e5d5ded9125f45f2/index.html",
-     "banner_asset_id": "img_banner_full_gacha-pickup-261019",
-     "start_time": 1792375200000,
-     "start_time_utc": "2026-10-19T02:00:00Z",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/fbce44d8eedc440405a8e2bdccc9d11aebb89f2bd8192d391023b95144c1acfd/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261114",
+     "start_time": 1794621600000,
+     "start_time_utc": "2026-11-14T02:00:00Z",
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-relay-003",
-     "title": "瞩目焦点活动《灿烂光辉，海滨的着装规范》上线！",
+     "id": "notice-marathon_event-relay-004",
+     "title": "瞩目焦点活动《风吹落叶，闲逛遨游♪》上线！",
      "type": 2,
      "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/9a739312abff12b5d9f646e8f06948fa4f586540937dc7e3fe30b75dc43e34e4/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-relay-003",
-     "start_time": 1792407600000,
-     "start_time_utc": "2026-10-19T11:00:00Z",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/c9d1c4cecc8f7990c645791452e6bc55a55f6a2fbadf0d6fa71edb2b2a75da0f/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-relay-004",
+     "start_time": 1794654000000,
+     "start_time_utc": "2026-11-14T11:00:00Z",
      "external_url": ""
     },
     {
-     "id": "notice-news-shop-membership-261022-pre",
-     "title": "【预告】会员新增“称号”！",
+     "id": "notice-marathon_event-normal-009",
+     "title": "得分挑战活动《秋夜漫漫，共度屋檐下》上线！",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/876792e61113ed94532d9beebc9f5a5433aadb1f5372ea07a0f30831954a1493/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-009",
+     "start_time": 1793934000000,
+     "start_time_utc": "2026-11-06T03:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-mv-release",
+     "title": "关于新增部分乐曲MV的公告",
      "type": 4,
      "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b8b3d482be9afb21ee191b5d41da401f8ca1cf75598be2faa6fc33297ff20782/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/33631a0f174a2437723f237d2e76553bb83ffec2db72a7cc189ce975f79dd1ee/index.html",
+     "banner_asset_id": "",
+     "start_time": 1785200400000,
+     "start_time_utc": "2026-07-28T01:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop-missionpass-261101",
+     "title": "“任务通行证2026年11月”上线！",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/eb90b949b64cb515fcafccf271911ec1a3bd38acd2b06f278200f6fa88875d2f/index.html",
+     "banner_asset_id": "img_banner_full_shop-missionpass-261101",
+     "start_time": 1793476800000,
+     "start_time_utc": "2026-10-31T20:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop-membership-261101",
+     "title": "会员新增“称号”！",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/24d2aedeebb15a6ee7f3a899e2d2f8fbc784aeb3482030829140c2d2ed365a5b/index.html",
      "banner_asset_id": "img_banner_full_shop-membership-261101",
-     "start_time": 1792634400000,
-     "start_time_utc": "2026-10-22T02:00:00Z",
+     "start_time": 1793476800000,
+     "start_time_utc": "2026-10-31T20:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-login_bonus-event-261029",
+     "title": "万圣节登录奖励上线！",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/33b07d98b08eeb6e1940424ca1fcef855074054d5a836c7a36a0ee596337ba0b/index.html",
+     "banner_asset_id": "img_banner_full_login-bonus-event-261029",
+     "start_time": 1793239200000,
+     "start_time_utc": "2026-10-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-261028",
+     "title": "Ver.1.2.100更新通知",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/e79b42fcd25cd0289b6c0749479389146105cba965584c2ecd2f53e0d56f46f0/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1793163600000,
+     "start_time_utc": "2026-10-28T05:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-survey-261027",
+     "title": "关于发放问卷调查谢礼",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/43c813ad571ef2ea5aa6b125b9429ec23e7307d45fa248a3429902756e212d19/index.html",
+     "banner_asset_id": "img_banner_full_info-survey-260828",
+     "start_time": 1793156400000,
+     "start_time_utc": "2026-10-28T03:00:00Z",
      "external_url": ""
     },
     {
@@ -52,17 +129,6 @@
      "banner_asset_id": "",
      "start_time": 1792395000000,
      "start_time_utc": "2026-10-19T07:30:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-daily_quest_update-261016",
-     "title": "关于每日任务的奖励",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f0b3a9c8931b682b20103f3f1486adedc67f0e35552d9b334f4c56f00c206efc/index.html",
-     "banner_asset_id": "",
-     "start_time": 1792141200000,
-     "start_time_utc": "2026-10-16T09:00:00Z",
      "external_url": ""
     },
     {
@@ -85,28 +151,6 @@
      "banner_asset_id": "img_banner_full_area-a03",
      "start_time": 1790647200000,
      "start_time_utc": "2026-09-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop-missionpass-261001",
-     "title": "“任务通行证2026年10月”上线！",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/1a1bcaf9e8bcbbb849bb2166447aab0c7b81b2753c5f7307b048b97fac48c5e2/index.html",
-     "banner_asset_id": "img_banner_full_shop-missionpass-261001",
-     "start_time": 1790798400000,
-     "start_time_utc": "2026-09-30T20:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop-membership-261001",
-     "title": "会员新增“表情”！",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f41732cf727ea11f14581659fa9fca219eb1019601a1ffe411668a0170e7287c/index.html",
-     "banner_asset_id": "img_banner_full_shop-membership-261001",
-     "start_time": 1790798400000,
-     "start_time_utc": "2026-09-30T20:00:00Z",
      "external_url": ""
     },
     {
@@ -184,17 +228,6 @@
      "banner_asset_id": "img_banner_full_update-info",
      "start_time": 1785382200000,
      "start_time_utc": "2026-07-30T03:30:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-mv-release",
-     "title": "关于新增部分乐曲MV的公告",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4560420fa4cda551c7b523f7ab15f9b707b7719f6ee660112224e80b5bd8b1d8/index.html",
-     "banner_asset_id": "",
-     "start_time": 1785200400000,
-     "start_time_utc": "2026-07-28T01:00:00Z",
      "external_url": ""
     },
     {
@@ -283,22 +316,22 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-mal-list-fixed",
-     "title": "已修复的异常",
+     "id": "notice-mal-list-confirmed",
+     "title": "目前已经发现的故障",
      "type": 100,
      "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/0b1cbaf16a9e85b6b662ab4c2464a76bd5ab55b6a43fb3e87ba51c1cb43b3860/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/128a553657f1e2b023ae56309a7a71215818e8181201cfd0fc06858f315aea3d/index.html",
      "banner_asset_id": "",
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
      "external_url": ""
     },
     {
-     "id": "notice-mal-list-confirmed",
-     "title": "目前已经发现的故障",
+     "id": "notice-mal-list-fixed",
+     "title": "已修复的异常",
      "type": 100,
      "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/31b2c2ed2b9da451259304dc2f06f688d6ec2a2fc1360ffd0ab5a22032ce2521/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f2db4f6f6215c654a5dfc7ab2bc0eddda2603c7f56a5995410b77f277eb99c12/index.html",
      "banner_asset_id": "",
      "start_time": 1787875200000,
      "start_time_utc": "2026-08-28T00:00:00Z",
