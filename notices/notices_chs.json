@@ -88,17 +88,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-login_bonus-event-261029",
-     "title": "万圣节登录奖励上线！",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/33b07d98b08eeb6e1940424ca1fcef855074054d5a836c7a36a0ee596337ba0b/index.html",
-     "banner_asset_id": "img_banner_full_login-bonus-event-261029",
-     "start_time": 1793239200000,
-     "start_time_utc": "2026-10-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-261028",
      "title": "Ver.1.2.100更新通知",
      "type": 3,
