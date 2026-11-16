@@ -11,17 +11,6 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-birthday-chr-00030-261115",
-     "title": "Happy Birthday！雪花菈米",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f06f59d6829b2ef865f1c04132ebf967bb33c0b49e9fcb396e68c361b2cd5f44/index.html",
-     "banner_asset_id": "img_banner_full_birthday-chr-00030-261115",
-     "start_time": 1794668400000,
-     "start_time_utc": "2026-11-14T15:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-gacha-pickup-261114",
      "title": "秋高气爽，漫步好时节♪ 扭蛋上线！",
      "type": 1,
